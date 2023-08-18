@@ -24070,6 +24070,21 @@
       "FilePath": "c:\\Users\\Usuario\\OneDrive - Unesp\\Projetos\\CSharp\\Formacao NET DIO\\ProjetoMVC\\Views\\Contato\\Criar.cshtml",
       "TargetPath": "Views\\Contato\\Criar.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Usuario\\OneDrive - Unesp\\Projetos\\CSharp\\Formacao NET DIO\\ProjetoMVC\\Views\\Contato\\Editar.cshtml",
+      "TargetPath": "Views\\Contato\\Editar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Usuario\\OneDrive - Unesp\\Projetos\\CSharp\\Formacao NET DIO\\ProjetoMVC\\Views\\Contato\\Detalhes.cshtml",
+      "TargetPath": "Views\\Contato\\Detalhes.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Usuario\\OneDrive - Unesp\\Projetos\\CSharp\\Formacao NET DIO\\ProjetoMVC\\Views\\Contato\\Deletar.cshtml",
+      "TargetPath": "Views\\Contato\\Deletar.cshtml",
+      "FileKind": "mvc"
     }
   ]
 }
